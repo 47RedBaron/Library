@@ -1,0 +1,17 @@
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/models/Books.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/models/Authors.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/application/MvcConfig.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/services/AuthorsServicesImpl.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/exceptions/ApplicationException.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/data/BooksDAOImpl.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/services/IBooksServices.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/data/IAuthorsDAO.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/services/IAuthorsServices.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/data/IBooksDAO.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/data/AuthorsDAOImpl.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/application/SpringInitializer.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/data/GenericDao.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/services/BooksServicesImpl.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/dto/BookDto.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/controllers/LibraryController.java
+/home/uroboros/Documents/Leansys/Library/src/main/java/fr/leansys/application/PersistenceConfig.java

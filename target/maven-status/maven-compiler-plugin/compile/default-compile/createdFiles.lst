@@ -1,0 +1,17 @@
+fr/leansys/data/AuthorsDAOImpl.class
+fr/leansys/application/SpringInitializer.class
+fr/leansys/services/IAuthorsServices.class
+fr/leansys/exceptions/ApplicationException.class
+fr/leansys/data/BooksDAOImpl.class
+fr/leansys/dto/BookDto.class
+fr/leansys/services/AuthorsServicesImpl.class
+fr/leansys/services/BooksServicesImpl.class
+fr/leansys/models/Authors.class
+fr/leansys/models/Books.class
+fr/leansys/application/PersistenceConfig.class
+fr/leansys/data/GenericDao.class
+fr/leansys/data/IBooksDAO.class
+fr/leansys/data/IAuthorsDAO.class
+fr/leansys/controllers/LibraryController.class
+fr/leansys/application/MvcConfig.class
+fr/leansys/services/IBooksServices.class
